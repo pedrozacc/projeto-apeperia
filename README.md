@@ -1,2 +1,2 @@
 # projeto-apeperia
- Curso de Layouts Responsivos: trabalhando com layouts mobile
+Arquivos do projeto para a Apeperia
